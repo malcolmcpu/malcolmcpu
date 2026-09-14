@@ -90,7 +90,7 @@ Programming Language Stats:
 <h3>Let's Connect!</h3>
 
 <a href="https://www.linkedin.com/in/malcolmrm/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/mrmlearnstech" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="twitter"/></a>
+<a href="https://twitter.com/computerspute" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="twitter"/></a>
 
 
 </div>
