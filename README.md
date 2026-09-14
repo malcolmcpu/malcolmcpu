@@ -56,14 +56,14 @@ I'm a Software Engineer – developing web applications with HTML, CSS, JavaScri
 <img src="https://skillicons.dev/icons?i=netlify" alt="netlify"/>
 </a>
 
-
+<!--
 <br>
 <br>
 <br>
 <a href> <img src="https://www.codewars.com/users/malcolm.cpu/badges/large" alt="codewars"/> </a>
 <br>
 <br>
-
+-->
 </div>
 
 
