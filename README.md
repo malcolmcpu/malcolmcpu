@@ -80,10 +80,10 @@ Programming Language Stats:
 
 <br>
 
-
+<!--
 <a href="https://github.com/malcolmcpu"> 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=malcolmcpu&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=30&theme=vue-dark" alt=`Malcolm's Github Streak`/>
-
+-->
 <br>
 
 
